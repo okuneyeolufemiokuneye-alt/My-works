@@ -1,7 +1,5 @@
-# My-works
-Analysis of Raisin Dataset 
+# My-work
 # Raisin Dataset Analysis
-
 ## Dataset Overview
 - **Training Observations:** 819  
 - **Test Observations:** 180  
@@ -15,7 +13,6 @@ Analysis of Raisin Dataset
   - Perimeter  
 - **Response:** `ClassBool` (2 classes: 0 and 1)  
 - **Validation Method:** 5-fold cross-validation  
-
 ---
 
 ## Favorite Model
