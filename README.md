@@ -1,8 +1,8 @@
 # Raisin Dataset Analysis
 
 ## Dataset Overview
-- **Total Observations:** 999  
-- **Training Observations (80%):** 819  
+- **Total Observations:** 900  
+- **Training Observations (80%):** 720  
 - **Test Observations (20%):** 180  
 - **Predictors (Features):** 7  
   - Area  
