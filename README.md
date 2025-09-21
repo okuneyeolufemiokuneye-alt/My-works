@@ -13,6 +13,7 @@
   - Perimeter  
 - **Response:** `ClassBool` (2 classes: 0 and 1)  
 - **Validation Method:** 5-fold cross-validation  
+- **Source:** [Raisin Dataset on Kaggle](https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset)
 
 ---
 
