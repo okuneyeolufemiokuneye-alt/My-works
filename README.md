@@ -31,10 +31,10 @@
 ## Accuracy Plots
 
 ### Validation Accuracy
-![Validation Accuracy](images/accuracy_validation.png)
+![Validation Accuracy](accuracy_validation.png)
 
 ### Test Accuracy
-![Test Accuracy](images/accuracy_test.png)
+![Test Accuracy](accuracy_test.png)
 
 ---
 
