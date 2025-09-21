@@ -11,7 +11,9 @@
   - ConvexArea  
   - Extent  
   - Perimeter  
-- **Response:** `ClassBool` (2 classes: 0 and 1)  
+- **Response:** `ClassBool` (2 classes)  
+  - **0:** Kecimen  
+  - **1:** Besni  
 - **Validation Method:** 5-fold cross-validation  
 - **Source:** [Raisin Dataset on Kaggle](https://www.kaggle.com/datasets/muratkokludataset/raisin-dataset)
 
